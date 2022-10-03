@@ -27,7 +27,7 @@ Just run anagram.py in the anagram directory with python.
 
 ## Authors
 
-* **Blasis Dimitriadis** - *Initial work* - [GreekAnagram](https://github.com/bdimitriadis/greek-anagram)
+* **Vlasios Dimitriadis** - *Initial work* - [GreekAnagram](https://github.com/bdimitriadis/greek-anagram)
 
 
 ## License
